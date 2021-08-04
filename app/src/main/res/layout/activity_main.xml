@@ -39,7 +39,7 @@
         android:padding="20dp">
 
             <Button
-                android:id="@+id/btr_tambah"
+                android:id="@+id/btn_tambah"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="+"/>
@@ -62,13 +62,6 @@
                 android:text="/"/>
 
     </LinearLayout>
-
-    <Button
-        android:id="@+id/btn_jumlah"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="20dp"
-        android:text="Jumlah"/>
 
     <TextView
         android:layout_width="wrap_content"
